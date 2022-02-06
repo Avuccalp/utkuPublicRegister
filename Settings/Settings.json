@@ -1,21 +1,21 @@
 {
     "BotSettings": {
-        "token": "TOKEN",
-        "owner": "SAHİP ID",
-        "prefix": "PREFİX",
+        "token": "OTM5ODQyMDQ5MTc0MzAyNzgw.Yf-uHQ.EhUJ6EiFJHkuW5EBZn41uD4SZdA",
+        "owner": "466623261417930769",
+        "prefix": "!",
         "botStatus": "botclub.net",
-        "botVoiceChannelID": "BOTUN SESE GİRCEĞİ KANAL ID"
+        "botVoiceChannelID": "939846711055097966"
     },
     "Roles": {
-        "BoyRole1": "ERKEK ROL 1",
-        "BoyRole2": "ERKEK ROL 2",
-        "GirlRole1": "KIZ ROL 1",
-        "GirlRole2": "KIZ ROL 2",
-        "Unregister": "KAYITSIZ ROL",
-        "Registerer": "YETKİLİ ROL",
-        "TagRole": "TAG ROL",
-        "Suspicious": "ŞÜPHELİ ROL",
-        "Jail": "JAİL ROL"
+        "BoyRole1": "939839926915182612",
+        "BoyRole2": "939839926915182612",
+        "GirlRole1": "939847546011017256",
+        "GirlRole2": "939847546011017256",
+        "Unregister": "939838864493776926",
+        "Registerer": "939837792580685844",
+        "TagRole": "",
+        "Suspicious": "939848551154987068",
+        "Jail": "939847760180572180"
     },
         "Colors": {
             "Red": "ff0000",
@@ -27,19 +27,19 @@
             "Yellow": "ffff00"
     },
         "ServerSettings": {
-            "ServerName": "SUNUCU ADI",
-            "ServerID": "SERVER ID",
+            "ServerName": "✰ W E X F O R D",
+            "ServerID": "939837288899305512",
             "Tag": "TAG",
             "UnTag": "UNTAG"
     },
         "Channels": {
-            "RegisterChat": "KAYIT CHAT",
-            "TagLog": "TAG LOG",
+            "RegisterChat": "939841541562843177",
+            "TagLog": "939849319719239680",
             "Rules": "KURALLAR CHAT",
-            "GeneralChat": "GENEL CHAT"
+            "GeneralChat": "939850683472039978"
         },
         "Welcome": {
-            "WelcomeChat": "HOŞGELDİN CHAT",
-            "WelcomeName": "• İsim | Yaş"
+            "WelcomeChat": "939841541562843177",
+            "WelcomeName": "✰ İsim | Yaş"
         }
 }
